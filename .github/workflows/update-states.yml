@@ -15,7 +15,7 @@ jobs:
       - uses: zerrelius/waka-readme-stats@main #PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: "░▒▓█"
+          BLOCKS: ░▒▓█
           SHOW_TOTAL: "True"
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
