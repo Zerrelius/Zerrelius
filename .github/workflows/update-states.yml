@@ -9,10 +9,10 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Waka - Readme
     runs-on: ubuntu-latest
     steps:
-      - uses: zerrelius/waka-readme-stats@main #PLEASE USE MASTER BRANCH
+      - uses: athul/waka-readme@v0.3.1 #PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ░▒▓█
@@ -22,3 +22,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           LANG_COUNT: 5
           LOCALE: "en"
+      
