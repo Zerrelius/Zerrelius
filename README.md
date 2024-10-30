@@ -28,6 +28,75 @@ Hi, i'm JD a Softwaredeveloper.
 ![](https://github-contributor-stats.vercel.app/api?username=Zerrelius&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 514 Bytes Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                40 commits          █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+🌆 Daytime                102 commits         █████████████░░░░░░░░░░░░   51.26 % 
+🌃 Evening                57 commits          ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Tuesday                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Wednesday                80 commits          ██████████░░░░░░░░░░░░░░░   40.20 % 
+Thursday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Friday                   73 commits          █████████░░░░░░░░░░░░░░░░   36.68 % 
+Saturday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             ████████████████████░░░░░   80.00 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Zerrelius/Zerrelius/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/10/2024 12:34:32 UTC
 <!--END_SECTION:waka-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Zerrelius&icon=0&color=1)](https://visitcount.itsvg.in)
