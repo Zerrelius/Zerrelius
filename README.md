@@ -28,15 +28,13 @@ Hi, i'm JD a Softwaredeveloper.
 ![](https://github-contributor-stats.vercel.app/api?username=Zerrelius&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 531 Bytes Used in GitHub's Storage 
  > 
-> 🏆 135 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -71,16 +69,24 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     1 hr 3 mins         ███████████░░░░░░░░░░░░░░   44.13 % 
+Other                    1 hr                ██████████░░░░░░░░░░░░░░░   41.74 % 
+Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 23 mins        ███████████████░░░░░░░░░░   58.38 % 
+WindowsPowerShell        59 mins             ██████████░░░░░░░░░░░░░░░   41.62 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Zerrelius                1 hr 18 mins        ██████████████░░░░░░░░░░░   54.66 % 
+Unknown Project          59 mins             ██████████░░░░░░░░░░░░░░░   41.62 % 
+zerrelius.github.io      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Development              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,7 +104,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zerrelius/Zerrelius/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2024 18:42:48 UTC
+ Last Updated on 31/10/2024 08:17:42 UTC
 <!--END_SECTION:waka-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Zerrelius&icon=0&color=1)](https://visitcount.itsvg.in)
