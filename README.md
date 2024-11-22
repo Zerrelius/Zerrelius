@@ -71,23 +71,16 @@ Sunday                   3 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-YAML                     44 mins             ██████████████░░░░░░░░░░░   57.18 % 
-Python                   13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Other                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-todo-api                 1 hr 10 mins        ███████████████████████░░   91.49 % 
-zerrelius.github.io      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-aws                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-image-viewer             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +98,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zerrelius/Zerrelius/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2024 18:43:52 UTC
+ Last Updated on 22/11/2024 18:43:13 UTC
 <!--END_SECTION:waka-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Zerrelius&icon=0&color=1)](https://visitcount.itsvg.in)
