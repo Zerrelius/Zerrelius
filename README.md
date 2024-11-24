@@ -34,7 +34,7 @@ Hi, i'm JD a Softwaredeveloper.
 
 **🐱 My GitHub Data** 
 
-> 📦 576 Bytes Used in GitHub's Storage 
+> 📦 577 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -96,7 +96,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zerrelius/Zerrelius/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2024 18:41:01 UTC
+ Last Updated on 24/11/2024 18:41:51 UTC
 <!--END_SECTION:waka-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Zerrelius&icon=0&color=1)](https://visitcount.itsvg.in)
