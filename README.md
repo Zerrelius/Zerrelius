@@ -28,7 +28,7 @@ Hi, i'm JD a Softwaredeveloper.
 ![](https://github-contributor-stats.vercel.app/api?username=Zerrelius&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -69,16 +69,16 @@ Sunday                   3 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+NZXTCAM                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,7 +96,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zerrelius/Zerrelius/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2024 18:41:51 UTC
+ Last Updated on 25/11/2024 18:43:50 UTC
 <!--END_SECTION:waka-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Zerrelius&icon=0&color=1)](https://visitcount.itsvg.in)
