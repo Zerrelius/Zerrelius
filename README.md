@@ -30,11 +30,13 @@ Hi, i'm JD a Softwaredeveloper.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 577 Bytes Used in GitHub's Storage 
+> 📦 574 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 151 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -96,7 +98,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zerrelius/Zerrelius/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2024 18:43:50 UTC
+ Last Updated on 26/11/2024 18:43:37 UTC
 <!--END_SECTION:waka-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Zerrelius&icon=0&color=1)](https://visitcount.itsvg.in)
