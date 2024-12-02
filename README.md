@@ -28,13 +28,13 @@ Hi, i'm JD a Softwaredeveloper.
 ![](https://github-contributor-stats.vercel.app/api?username=Zerrelius&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2013%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 576 Bytes Used in GitHub's Storage 
- > 
-> 🏆 151 Contributions in the Year 2024
+> 📦 577 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -69,21 +69,21 @@ Sunday                   3 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       1 hr 36 mins        █████████████████░░░░░░░░   66.55 % 
-Other                    47 mins             ████████░░░░░░░░░░░░░░░░░   33.10 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+C#                       1 hr 36 mins        ██████████████████░░░░░░░   73.04 % 
+Other                    34 mins             ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  1 hr 57 mins        ████████████████████░░░░░   81.49 % 
-NZXTCAM                  26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+VS Code                  1 hr 57 mins        ██████████████████████░░░   89.44 % 
+NZXTCAM                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
 
 🐱‍💻 Projects: 
-Development              1 hr 57 mins        ████████████████████░░░░░   81.49 % 
-Unknown Project          26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Development              1 hr 57 mins        ██████████████████████░░░   89.44 % 
+Unknown Project          13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
 
 💻 Operating System: 
-Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,7 +101,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zerrelius/Zerrelius/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2024 18:42:02 UTC
+ Last Updated on 02/12/2024 18:45:05 UTC
 <!--END_SECTION:waka-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Zerrelius&icon=0&color=1)](https://visitcount.itsvg.in)
