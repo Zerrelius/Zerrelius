@@ -36,6 +36,8 @@ Hi, i'm JD a Softwaredeveloper.
 
 > 📦 577 Bytes Used in GitHub's Storage 
  > 
+> 🏆 151 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -101,7 +103,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zerrelius/Zerrelius/main/assets/bar_graph.png)
 
 
- Last Updated on 02/12/2024 18:45:05 UTC
+ Last Updated on 03/12/2024 18:43:34 UTC
 <!--END_SECTION:waka-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Zerrelius&icon=0&color=1)](https://visitcount.itsvg.in)
