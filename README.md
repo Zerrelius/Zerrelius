@@ -36,6 +36,8 @@ Hi, i'm JD a Softwaredeveloper.
 
 > 📦 1.6 kB Used in GitHub's Storage 
  > 
+> 🏆 195 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -69,20 +71,16 @@ Sunday                   5 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               1 hr 16 mins        ██████████████████████░░░   86.41 % 
-CSS                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fetching-data-tutorial   1 hr 2 mins         ██████████████████░░░░░░░   70.56 % 
-fetching-data-tutorial-1 14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-zerrelius.github.io      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 29 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -101,7 +99,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zerrelius/Zerrelius/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2024 18:40:51 UTC
+ Last Updated on 28/12/2024 18:39:38 UTC
 <!--END_SECTION:waka-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Zerrelius&icon=0&color=1)](https://visitcount.itsvg.in)
