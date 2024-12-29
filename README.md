@@ -36,8 +36,6 @@ Hi, i'm JD a Softwaredeveloper.
 
 > 📦 1.6 kB Used in GitHub's Storage 
  > 
-> 🏆 195 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -71,16 +69,21 @@ Sunday                   5 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               19 mins             █████████░░░░░░░░░░░░░░░░   37.42 % 
+TOML                     17 mins             █████████░░░░░░░░░░░░░░░░   34.62 % 
+INI                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+C#                       3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+altv-server              46 mins             ███████████████████████░░   91.11 % 
+Development              4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,7 +102,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zerrelius/Zerrelius/main/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2024 18:39:38 UTC
+ Last Updated on 29/12/2024 18:39:12 UTC
 <!--END_SECTION:waka-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Zerrelius&icon=0&color=1)](https://visitcount.itsvg.in)
