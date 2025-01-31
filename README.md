@@ -28,15 +28,13 @@ Hi, i'm JD a Softwaredeveloper.
 ![](https://github-contributor-stats.vercel.app/api?username=Zerrelius&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.1 kB Used in GitHub's Storage 
- > 
-> 🏆 32 Contributions in the Year 2025
+> 📦 2.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -47,19 +45,19 @@ Hi, i'm JD a Softwaredeveloper.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                92 commits          ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-🌆 Daytime                143 commits         ████████████░░░░░░░░░░░░░   46.43 % 
-🌃 Evening                72 commits          ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+🌞 Morning                92 commits          ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+🌆 Daytime                143 commits         ████████████░░░░░░░░░░░░░   46.28 % 
+🌃 Evening                73 commits          ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Tuesday                  31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Wednesday                88 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Thursday                 19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Friday                   116 commits         █████████░░░░░░░░░░░░░░░░   37.66 % 
+Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Tuesday                  31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Wednesday                88 commits          ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+Thursday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Friday                   116 commits         █████████░░░░░░░░░░░░░░░░   37.54 % 
 Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 Sunday                   5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
@@ -109,7 +107,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zerrelius/Zerrelius/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2025 18:41:29 UTC
+ Last Updated on 31/01/2025 18:40:55 UTC
 <!--END_SECTION:waka-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Zerrelius&icon=0&color=1)](https://visitcount.itsvg.in)
