@@ -28,7 +28,7 @@ Hi, i'm JD a Softwaredeveloper.
 ![](https://github-contributor-stats.vercel.app/api?username=Zerrelius&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -109,7 +109,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zerrelius/Zerrelius/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2025 18:38:23 UTC
+ Last Updated on 02/02/2025 18:40:38 UTC
 <!--END_SECTION:waka-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Zerrelius&icon=0&color=1)](https://visitcount.itsvg.in)
